@@ -13,6 +13,7 @@ export default async function Home() {
 
     <div className="flex flex-col items-center justify-center gap-4 h-screen text-[80px]">
       <a href="/cat" className="hover:text-blue-500">Cat</a>
+      <a href="/3narabe" className="hover:text-blue-500">3narabe</a>
     </div>
   );
 }
