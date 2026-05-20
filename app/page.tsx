@@ -1,8 +1,7 @@
 "use client;"
-import { GoodButton } from "@/components/good_button";
+
 import { fetchImage } from "./fetch_image";
 import { connection } from "next/server";
-import { CatImage } from "./cat_image";
 
 
 export default async function Home() {
