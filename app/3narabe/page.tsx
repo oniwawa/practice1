@@ -1,6 +1,6 @@
 "use client";
 
-import Border, { Square } from "../border";
+import Border from "../border";
 
 export default function SanNarabe() {
     return(

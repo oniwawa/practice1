@@ -1,7 +1,5 @@
-import { Edu_NSW_ACT_Hand_Pre } from "next/font/google";
 import "./styles.css";
 import { useState } from "react";
-import { li } from "framer-motion/client";
 
 export function Square({ value, onClick }: { value: string | null, onClick: () => void }) {
   return (
